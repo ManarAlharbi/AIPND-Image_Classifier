@@ -15,7 +15,7 @@ then predicts new images using the trained model.
 For this purpose, I built and trained an image classifier to recognize different species of flowers. 
 I used [this dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories, you can see a few examples below. 
 
-![Sample Flowers]('images/Flowers.png)
+![Sample Flowers]('images/Flowers.png')
 
 The project is broken down into multiple steps:
 - Load and preprocess the image dataset
