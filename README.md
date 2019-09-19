@@ -10,6 +10,8 @@
 
 
 ## Project Motivation <a name="motivation"></a>
+Image Classifier Project is a real-world project required to complete the AI Programming with Python Nanodegree Program of udacity academy.
+
 The project goal is to build a Python application that can train an image classifier on a dataset, 
 then predicts new images using the trained model. 
 For this purpose, I built and trained an image classifier to recognize different species of flowers. 
